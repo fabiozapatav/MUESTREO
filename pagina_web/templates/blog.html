@@ -1,0 +1,120 @@
+{% extends "layout.html"%}
+{% block contet %}
+<nav class="navbar navbar-expand-lg bg-body-tertiary ">
+    <div class="container-fluid">
+      <a class="nav-link" href="#">Buscador</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText"
+        aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarText">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="#titulo">Telecomunicaciones</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#sub1">Historia de las telecomunicaciones</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="{{url_for('about')}}">Mas</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+<head>
+  <title>primer site</title>
+</head>
+
+<body>
+  <!---------------------------------------------------------------------------------------------------------------->
+  <header>
+    <h1 id="titulo">Blog telematica</h1>
+  </header>
+  <div>
+    parrafo div
+  </div>
+  <section>
+    <article class="post">
+      <h2>Telecomunicaciones</h2>
+      <p style="text-align: justify;">Emisión, transmisión y recepción de información por hilo,<br>
+        radioelectricidad, medios ópticos u otros sistemas electromagnéticos.</p>
+      <img src="img/descarga.jpeg" width="400" />
+      <p style="text-align: justify;">Los ingenieros de telecomunicaciones son expertos en tecnología de<br>
+        las comunicaciones. Se encargan del diseño, investigación y desarrollo<br>
+        de sistemas de comunicaciones por cable y satélite, teléfonos móviles,<br>
+        ondas de radio, Internet y correo electrónico.</p>
+
+    </article>
+
+    <article class="post">
+      <h2 id="sub1">Historia de las telecomunicaciones</h2>
+      <p style="text-align: justify;">El ser humano ha intentado superar las distancias para enviar y recibir<br>
+        señales desde épocas muy tempranas. Para ello empleaba señales de humo,<br>
+        sonidos instrumentales, mensajeros humanos o cadenas de señales de fuego.<br><br>
+
+        Sin embargo, recién con la aparición del correo postal en sus distintas versiones,<br>
+        algunas más antiguas que otras, apareció un verdadero sistema de comunicaciones a<br>
+        la distancia. Generalmente estaba dirigido a comunicar al rey o a la metrópoli imperial,<br>
+        con sus súbditos lejanos o con sus territorios coloniales.
+      </p>
+      <img src="img/tele1.jpg" width="400" />
+      <p style="text-align: justify;">Por su parte, los primeros sistemas de comunicación rápida a distancia se crearon
+        en<br>
+        la Edad Moderna, cuando gracias al dominio de la electricidad, surgió el modo de emplearla<br>
+        para transmitir mensajes simples, limitados generalmente a una palabra, mediante el telégrafo.
+
+      </p>
+    </article>
+    <article class="post">
+      <h2>Tipos de telecomunicaciones</h2>
+      <p style="text-align: justify;">Hay muchas formas de clasificar las telecomunicaciones, atendiendo a distintos
+        elementos. <br>
+        Por ejemplo, podemos distinguir entre comunicaciones unidireccionales, aquellas en las<br>
+        que el emisor es siempre emisor, y las bidireccionales, en las que los receptores eventualmente<br>
+        ocupan también el rol de emisor, es decir, existe retroalimentación.<br><br>
+
+        Por otro lado, atendiendo a la naturaleza de su tecnología específica, podemos diferenciar entre:<br><br>
+
+      </p>
+      <img src="img/tele2.jpg" width="400" />
+      <ul>
+        <li>Radiocomunicaciones.</li>
+        <li>Telefonía. </li>
+        <li>Televisión.</li>
+        <li>Internet.</li>
+        <li>Fax.</li>
+      </ul>
+
+    </article>
+    <article class="post">
+      <h2>Historia de las telecomunicaciones</h2>
+      <p style="text-align: justify;">Carrera en telecomunicaciones
+        El estudio de las telecomunicaciones se lleva a cabo desde muy distintos<br>
+        enfoques, cada uno representado en una carrera universitaria o un grado similar,<br>
+        lo cual abarca títulos tan distintos como son, entre otras:<br><br>
+        <li>Ingeniería en telecomunicaciones. </li>
+        <li>Desarrollador Web.</li>
+        <li>Tecnicatura superior en redes informáticas.</li>
+        <li>Tecnicatura universitaria en telecomunicaciones.</li>
+
+      </p>
+      <img src="img/tele3.jpg" width="400" />
+      <p style="text-align: justify;">El estudio de telecomunicaciones tiene un claro perfil tecnológico, orientado<br>
+        a la ciencia aplicada y a la ingeniería electrónica, industrial y de materiales.
+
+      </p>
+    </article>
+
+  </section>
+  <footer>
+    <a href="#titulo">ir arriva</a>
+    <br>
+    <a href="mailto:fabiovelandiazpatag@gmail,com">correo electronico</a>
+
+  </footer>
+</body>
+{% endblock %}
+
+</html>

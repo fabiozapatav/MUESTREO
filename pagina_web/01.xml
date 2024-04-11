@@ -1,0 +1,2265 @@
+<!--Al seleccionar 10 registro-->
+<table class="table" invisible="x_studio_registros_herramienta != '10'">
+    <thead>
+      <tr>
+        <th scope="col">NOMBRE HERRAMIENTA</th>
+        <th scope="col"># DE SEGUIMIENTO</th>
+        <th scope="col">ESTADO DEL EQUIPO</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta"  required="x_studio_registros_herramienta == &quot;10&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta2"  required="x_studio_registros_herramienta == &quot;10&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento2"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta2"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta3"  required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento3"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta3"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta4"  required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento4"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta4"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta5"  required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento5"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta5"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta6"  required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento6"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta6"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta7" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento7"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta7"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta8" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento8"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta8"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta9" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento9"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta9"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta10 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento10"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta10"/>
+        </th>
+      </tr>
+    </tbody>
+  </table>
+  <!--INICIA TABLA HERRAMIENTAS  -->
+  <!--Al seleccionar 11 registro-->
+  <table class="table" invisible="x_studio_registros_herramienta != '11'">
+    <thead>
+      <tr>
+        <th scope="col">NOMBRE HERRAMIENTA</th>
+        <th scope="col"># DE SEGUIMIENTO</th>
+        <th scope="col">ESTADO DEL EQUIPO</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta"  required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta2" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento2"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta2"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta3" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento3"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta3"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta4" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento4"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta4"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta5" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento5"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta5"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta6" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento6"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta6"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta7" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento7"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta7"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta8" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento8"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta8"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta9" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento9"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta9"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta10 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento10"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta10"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta11 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento11"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta11"/>
+        </th>
+      </tr>
+    </tbody>
+  </table>
+  <!--INICIA TABLA HERRAMIENTAS  -->
+  <!--Al seleccionar 12 registro-->
+  <table class="table" invisible="x_studio_registros_herramienta != '12'">
+    <thead>
+      <tr>
+        <th scope="col">NOMBRE HERRAMIENTA</th>
+        <th scope="col"># DE SEGUIMIENTO</th>
+        <th scope="col">ESTADO DEL EQUIPO</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta"  required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta2" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento2"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta2"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta3" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento3"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta3"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta4" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento4"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta4"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta5" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento5"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta5"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta6" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento6"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta6"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta7" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento7"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta7"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta8" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento8"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta8"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta9" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento9"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta9"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta10 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento10"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta10"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta11 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento11"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta11"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta12 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento12"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta12"/>
+        </th>
+      </tr>
+    </tbody>
+  </table>
+  <!--INICIA TABLA HERRAMIENTAS  -->
+  <!--Al seleccionar 13 registro-->
+  <table class="table" invisible="x_studio_registros_herramienta != '13'">
+    <thead>
+      <tr>
+        <th scope="col">NOMBRE HERRAMIENTA</th>
+        <th scope="col"># DE SEGUIMIENTO</th>
+        <th scope="col">ESTADO DEL EQUIPO</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta"  required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta2" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento2"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta2"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta3" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento3"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta3"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta4" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento4"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta4"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta5" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento5"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta5"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta6" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento6"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta6"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta7" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento7"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta7"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta8" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento8"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta8"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta9" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento9"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta9"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta10 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento10"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta10"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta11 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento11"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta11"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta12 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento12"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta12"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta13 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento13"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta13"/>
+        </th>
+      </tr>
+    </tbody>
+  </table>
+  <!--INICIA TABLA HERRAMIENTAS  -->
+  <!--Al seleccionar 14 registro-->
+  <table class="table" invisible="x_studio_registros_herramienta != '14'">
+    <thead>
+      <tr>
+        <th scope="col">NOMBRE HERRAMIENTA</th>
+        <th scope="col"># DE SEGUIMIENTO</th>
+        <th scope="col">ESTADO DEL EQUIPO</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta"  required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta2" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento2"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta2"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta3" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento3"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta3"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta4" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento4"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta4"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta5" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento5"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta5"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta6" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento6"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta6"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta7" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento7"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta7"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta8" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento8"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta8"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta9" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento9"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta9"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta10 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento10"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta10"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta11 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento11"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta11"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta12 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento12"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta12"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta13 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento13"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta13"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta14 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento14"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta14"/>
+        </th>
+      </tr>
+    </tbody>
+  </table>
+  <!--INICIA TABLA HERRAMIENTAS  -->
+  <!--Al seleccionar 15 registro-->
+  <table class="table" invisible="x_studio_registros_herramienta != '15'">
+    <thead>
+      <tr>
+        <th scope="col">NOMBRE HERRAMIENTA</th>
+        <th scope="col"># DE SEGUIMIENTO</th>
+        <th scope="col">ESTADO DEL EQUIPO</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta"  required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta2" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento2"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta2"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta3" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento3"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta3"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta4" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento4"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta4"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta5" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento5"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta5"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta6" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento6"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta6"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta7" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento7"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta7"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta8" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento8"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta8"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta9" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento9"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta9"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta10 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento10"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta10"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta11 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento11"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta11"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta12 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento12"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta12"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta13 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento13"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta13"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta14 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento14"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta14"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta15 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento15"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta15"/>
+        </th>
+      </tr>
+    </tbody>
+  </table>
+  <!--INICIA TABLA HERRAMIENTAS  -->
+  <!--Al seleccionar 16 registro-->
+  <table class="table" invisible="x_studio_registros_herramienta != '16'">
+    <thead>
+      <tr>
+        <th scope="col">NOMBRE HERRAMIENTA</th>
+        <th scope="col"># DE SEGUIMIENTO</th>
+        <th scope="col">ESTADO DEL EQUIPO</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta"  required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta2" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento2"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta2"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta3" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento3"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta3"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta4" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento4"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta4"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta5" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento5"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta5"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta6" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento6"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta6"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta7" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento7"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta7"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta8" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento8"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta8"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta9" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento9"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta9"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta10 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento10"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta10"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta11 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento11"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta11"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta12 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento12"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta12"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta13 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento13"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta13"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta14 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento14"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta14"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta15 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento15"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta15"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta16 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento16"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta16"/>
+        </th>
+      </tr>
+    </tbody>
+  </table>
+  <!--INICIA TABLA HERRAMIENTAS  -->
+  <!--Al seleccionar 17 registro-->
+  <table class="table" invisible="x_studio_registros_herramienta != '17'">
+    <thead>
+      <tr>
+        <th scope="col">NOMBRE HERRAMIENTA</th>
+        <th scope="col"># DE SEGUIMIENTO</th>
+        <th scope="col">ESTADO DEL EQUIPO</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta"  required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta2" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento2"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta2"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta3" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento3"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta3"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta4" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento4"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta4"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta5" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento5"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta5"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta6" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento6"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta6"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta7" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento7"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta7"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta8" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento8"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta8"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta9" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento9"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta9"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta10 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento10"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta10"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta11 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento11"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta11"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta12 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento12"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta12"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta13 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento13"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta13"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta14 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento14"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta14"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta15 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento15"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta15"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta16 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento16"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta16"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta17 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento17"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta17"/>
+        </th>
+      </tr>
+    </tbody>
+  </table>
+  <!--INICIA TABLA HERRAMIENTAS  -->
+  <!--Al seleccionar 18 registro-->
+  <table class="table" invisible="x_studio_registros_herramienta != '18'">
+    <thead>
+      <tr>
+        <th scope="col">NOMBRE HERRAMIENTA</th>
+        <th scope="col"># DE SEGUIMIENTO</th>
+        <th scope="col">ESTADO DEL EQUIPO</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta"  required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta2" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento2"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta2"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta3" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento3"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta3"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta4" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento4"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta4"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta5" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento5"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta5"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta6" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento6"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta6"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta7" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento7"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta7"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta8" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento8"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta8"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta9" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento9"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta9"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta10 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento10"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta10"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta11 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento11"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta11"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta12 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento12"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta12"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta13 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento13"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta13"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta14 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento14"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta14"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta15 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento15"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta15"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta16 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento16"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta16"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta17 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento17"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta17"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta18 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento18"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta18"/>
+        </th>
+      </tr>
+    </tbody>
+  </table>
+  <!--INICIA TABLA HERRAMIENTAS  -->
+  <!--Al seleccionar 19 registro-->
+  <table class="table" invisible="x_studio_registros_herramienta != '19'">
+    <thead>
+      <tr>
+        <th scope="col">NOMBRE HERRAMIENTA</th>
+        <th scope="col"># DE SEGUIMIENTO</th>
+        <th scope="col">ESTADO DEL EQUIPO</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta"  required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta2" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento2"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta2"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta3" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento3"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta3"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta4" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento4"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta4"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta5" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento5"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta5"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta6" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento6"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta6"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta7" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento7"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta7"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta8" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento8"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta8"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta9" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento9"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta9"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta10 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento10"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta10"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta11 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento11"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta11"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta12 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento12"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta12"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta13 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento13"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta13"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta14 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento14"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta14"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta15 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento15"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta15"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta16 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento16"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta16"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta17 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento17"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta17"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta18 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento18"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta18"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta19 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento19"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta19"/>
+        </th>
+      </tr>
+    </tbody>
+  </table>
+  <!--INICIA TABLA HERRAMIENTAS  -->
+  <!--Al seleccionar 20 registro-->
+  <table class="table" invisible="x_studio_registros_herramienta != '20'">
+    <thead>
+      <tr>
+        <th scope="col">NOMBRE HERRAMIENTA</th>
+        <th scope="col"># DE SEGUIMIENTO</th>
+        <th scope="col">ESTADO DEL EQUIPO</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta"  required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta2" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento2"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta2"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta3" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento3"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta3"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta4" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento4"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta4"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta5" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento5"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta5"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta6" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento6"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta6"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta7" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento7"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta7"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta8" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento8"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta8"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta9" required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento9"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta9"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta10 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento10"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta10"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta11 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento11"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta11"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta12 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento12"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta12"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta13 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento13"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta13"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta14 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento14"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta14"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta15 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento15"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta15"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta16 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento16"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta16"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta17 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento17"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta17"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta18 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento18"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta18"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta19 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento19"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta19"/>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th>
+          <field name="x_studio_nomb_herramienta20 required="x_studio_registros_herramienta == &quot;9&quot;" options="{&quot;no_create&quot;:true}"/>
+        </th>
+        <th>
+          <field name="x_studio_no_seguimiento20"/>
+        </th>
+        <th>
+          <field name="x_studio_estado_de_herramienta20"/>
+        </th>
+      </tr>
+    </tbody>
+  </table>

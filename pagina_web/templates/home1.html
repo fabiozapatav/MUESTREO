@@ -1,0 +1,199 @@
+{% extends "layout.html"%}
+{% block contet %}
+
+
+<main class="container">
+  <div class="p-4 p-md-5 mb-4 rounded text-body-emphasis bg-body-secondary">
+    <div class="row">
+      <div class="col-md-6">
+        <h1 class="display-5 fw-bold">Telecomunicaciones</h1>
+        <h1 class="lead my-3">Cuando hablamos de telecomunicaciones, nos referimos a la ciencia y a la práctica de la transmisión de información a través de medios electromagnéticos, mediante el empleo de un conjunto de técnicas y materiales especializados. Dicha información puede consistir en datos textuales, de audio, de video o la combinación de los tres. </h1>
+        <p class="lead mb-0"><a href="{{url_for('comc')}}" class="text-body-emphasis fw-bold">Más ...</a></p>
+      </div>
+      <div class="col-md-6">
+        <img src="img/4.jpg" class="img-fluid" alt="Imagen relacionada con telecomunicaciones">
+      </div>
+    </div>
+  </div>
+
+  <div class="row mb-2">
+    <div class="col-md-6">
+      <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+        <div class="col p-4 d-flex flex-column position-static">
+          <h3 class="mb-0">Historia</h3>
+          <div class="mb-1 text-body-secondary">de las telecomunicaciones</div>
+          <p class="card-text mb-auto">La historia de las telecomunicaciones es larga y fascinante, marcada por una serie de innovaciones.</p>
+          <a href="{{url_for('his')}}" class="icon-link gap-1 icon-link-hover stretched-link">
+            Mas ...
+            <svg class="bi"><use xlink:href="#chevron-right"/></svg>
+          </a>
+        </div>
+        <div class="col-auto d-none d-lg-block">
+          <!-- Utilizando url_for para generar la URL de la imagen en el SVG -->
+          <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+              <title>Placeholder</title>
+              <!-- Utilizando url_for para generar la URL de la imagen -->
+              <image href="img/1.jpg" width="100%" height="100%" />
+          </svg>
+          
+      </div>
+      </div>
+    </div>
+    <div class="col-md-6">
+      <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+        <div class="col p-4 d-flex flex-column position-static">
+          <h3 class="mb-0">Tipos</h3>
+          <div class="mb-1 text-body-secondary">de telecomunicacion</div>
+          <p class="mb-auto">Aquí te presento una clasificación común basada en los diferentes medios utilizados para la transmisión de información:</p>
+          <a href="{{url_for('tip')}}" class="icon-link gap-1 icon-link-hover stretched-link">
+            Mas...
+            <svg class="bi"><use xlink:href="#chevron-right"/></svg>
+            
+          </a>
+        </div>
+        <div class="col-auto d-none d-lg-block">
+          <!-- Utilizando url_for para generar la URL de la imagen en el SVG -->
+          <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+              <title>Placeholder</title>
+              <!-- Utilizando url_for para generar la URL de la imagen -->
+              <image href="img/2.jpg" width="100%" height="100%" />
+          </svg>
+          
+      </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="row g-5">
+    <div class="col-md-8">
+      <h3 class="pb-4 mb-4 fst-italic border-bottom">
+        DATOS INTERESANTES 
+      </h3>
+
+      <article class="blog-post">
+        <h2>Conexiones móviles:</h2>
+        <p>Según la GSMA, para 2020 había más de 5 mil millones de suscripciones móviles en todo el mundo, lo que representa aproximadamente el 67% de la población mundial.</p>
+        <hr>
+        <h2>Crecimiento de internet:</h2>
+        <p>En 2021, se estima que más de 4.6 mil millones de personas estaban utilizando internet en todo el mundo, lo que representa alrededor del 59% de la población global.</p>
+        <hr>
+        <h2>Velocidades de conexión:</h2>
+        <p>La velocidad promedio de conexión a internet en todo el mundo ha aumentado significativamente en las últimas décadas. Según Speedtest Global Index, en 2021, la velocidad de descarga promedio a nivel mundial fue de alrededor de 87.5 Mbps, con países como Singapur, Hong Kong y Suiza liderando en velocidades de conexión.</p>
+        <hr>
+        <h2>Telefonía móvil en África:</h2>
+        <p>África es uno de los mercados de telefonía móvil de más rápido crecimiento en el mundo. Según la GSMA, se espera que el número de conexiones móviles en África alcance los 1.3 mil millones para 2025.</p>
+        <hr>
+        <h2>Impacto económico:</h2>
+        <p>Las telecomunicaciones tienen un impacto significativo en la economía global. Según la Unión Internacional de Telecomunicaciones (UIT), el sector de las TIC (Tecnologías de la Información y la Comunicación) representa aproximadamente el 6% del PIB mundial.</p>
+        <hr>
+        <h2>Desarrollo de 5G:</h2>
+        <p>La implementación de la tecnología 5G está en marcha en muchas partes del mundo. Se espera que 5G no solo proporcione velocidades de conexión más rápidas, sino que también impulse el desarrollo de aplicaciones innovadoras en áreas como la realidad virtual, el internet de las cosas y los vehículos autónomos.</p>
+        <hr>
+        <h2>Telecomunicaciones espaciales:</h2>
+        <p>Las telecomunicaciones satelitales desempeñan un papel crucial en la conectividad global, especialmente en áreas remotas o rurales donde las infraestructuras terrestres son limitadas. Empresas como SpaceX, OneWeb y Amazon están trabajando en desplegar constelaciones de satélites para proporcionar internet de alta velocidad en todo el mundo.</p>
+        <hr>
+      </article>
+
+      <article class="blog-post">
+        
+        <table class="table">
+          <thead>
+            <tr>
+              <th>#</th>
+              <th>Tema</th>
+              <th>Descripcion</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>1</td>
+              <td>Telefonía móvil </td>
+              <td>Comunicación inalámbrica de voz y datos a través de dispositivos móviles.</td>
+            </tr>
+            <tr>
+              <td>2</td>
+              <td>Internet de las cosas</td>
+              <td>Conexión de dispositivos a internet para intercambiar datos y automatizar tareas.</td>
+            </tr>
+            <tr>
+              <td>3</td>
+              <td>Redes 5G</td>
+              <td>Tecnología de red de próxima generación con altas velocidades y baja latencia.</td>
+            </tr>
+          </tbody>
+          <tfoot>
+            <tr>
+              <td>4</td>
+              <td>Seguridad</td>
+              <td>23Medidas para proteger la integridad, confidencialidad y disponibilidad de los datos transmitidos a través de redes de comunicación</td>
+            </tr>
+          </tfoot>
+        </table>
+
+      </article>
+    </div>
+
+
+ <!---------------------------------------------------------------------------------------------------------------->
+
+    <div class="col-md-4">
+      
+
+        <div>
+          <h4 class="fst-italic">Recent posts</h4>
+          <ul class="list-unstyled">
+            <li>
+              <a class="d-flex flex-column flex-lg-row gap-3 align-items-start align-items-lg-center py-3 link-body-emphasis text-decoration-none border-top" href="img/1.jpg">
+                <img src="img/face.png" width="100%" height="96" xmlns="http://www.w3.org/2000/svg" alt="">
+                <!-- <svg class="bd-placeholder-img" width="100%" height="96" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"/></svg> -->
+                <div class="col-lg-8">
+                  <h6 class="mb-0">Facebook</h6>
+                  <small class="text-body-secondary">Face</small>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a class="d-flex flex-column flex-lg-row gap-3 align-items-start align-items-lg-center py-3 link-body-emphasis text-decoration-none border-top" href="#">
+                <img src="img/what.png" width="100%" height="96" xmlns="http://www.w3.org/2000/svg" alt="">
+                <div class="col-lg-8">
+                  <h6 class="mb-0">Whatsapp</h6>
+                  <small class="text-body-secondary">What</small>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a class="d-flex flex-column flex-lg-row gap-3 align-items-start align-items-lg-center py-3 link-body-emphasis text-decoration-none border-top" href="#">
+                <img src="img/ins.jpeg" width="100%" height="96" xmlns="http://www.w3.org/2000/svg" alt="">
+                <div class="col-lg-8">
+                  <h6 class="mb-0">Instagram</h6>
+                  <small class="text-body-secondary">Ins</small>
+                </div>
+              </a>
+            </li>
+          </ul>
+        </div>
+
+        <div class="p-4">
+          <h4 class="fst-italic">Contactenos</h4>
+          <ol class="list-unstyled mb-0">
+            <li><a href="#">Correo electronico 1</a></li>
+            <li><a href="#"></a>correo electronico 2</li>
+            <li><a href="#">linea telefonica</a></li>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</main>
+
+<footer class="py-5 text-center text-body-secondary bg-body-tertiary">
+  <p>Blog template built for <a href="https://getbootstrap.com/">Bootstrap</a> by <a href="https://twitter.com/mdo">@mdo</a>.</p>
+  <p class="mb-0">
+    <a href="#">Back to top</a>
+  </p>
+</footer>
+<script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
+
+    </body>
+</html>
+{% endblock %}
